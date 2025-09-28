@@ -1,4 +1,4 @@
-# Preparador de Entrevistas Digital 
+# GranSim - Preparador de Entrevistas Digital 
 
 [MVP](https://job-talk-guru.lovable.app/)
 
