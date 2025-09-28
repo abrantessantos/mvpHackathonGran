@@ -11,6 +11,7 @@ A proposta nasceu como um **MVP** simples de perguntas e respostas, que ao final
 
 📊 KPIs e Indicadores - Evolução percentual do desempenho entre simulações. - Tempo médio de resposta e redução de hesitações. - Índice de clareza e coerência. - Engajamento dos usuários (quantidade de simulações realizadas). - Taxa de empregabilidade após uso da ferramenta. 
 
-👥 Equipe - **Alfredo Anderson Teixeira de Araujo** - **Gustavo Espanhol Milaré** - **Gustavo Vinícius Abrantes Santos** - **Helena Heloisa Carvalho Peres** - **Igor Bione**  
+👥 Equipe - **Alfredo Anderson Teixeira de Araujo** - **Gustavo Espanhol Milaré** - 
+**Gustavo Vinícius Abrantes Santos** - **Helena Heloisa Carvalho Peres** - **Igor Bione**  
 
-🏫 Instituição Promotora Este projeto foi desenvolvido no **Hackathon de Educação Digital** promovido pela **GRAN**. ---
+🏫 Este projeto foi desenvolvido no **Hackathon de Educação Digital** promovido pela **GRAN**.
