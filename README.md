@@ -32,8 +32,8 @@
 
 👥 Equipe
     **Alfredo Anderson Teixeira de Araujo** 
-    **Gustavo Espanhol Milaré**
-    **Gustavo Vinícius Abrantes Santos**
-    **Helena Heloisa Carvalho Peres** 
-    **Igor Bione**  
+     | **Helena Heloisa Carvalho Peres** 
+     | **Gustavo Espanhol Milaré**
+     | **Gustavo Vinícius Abrantes Santos**
+     | **Igor Bione**  
 
