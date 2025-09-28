@@ -1,6 +1,6 @@
 # Preparador de Entrevistas Digital 
 
-[Site](https://job-talk-guru.lovable.app/)
+[MVP](https://job-talk-guru.lovable.app/)
 
 🎤💼 Projeto desenvolvido durante o Hackathon de Educação Digital promovido pela **GRAN FACULDADE**.
 
