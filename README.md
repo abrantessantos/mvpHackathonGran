@@ -8,7 +8,7 @@
 O **Preparador de Entrevistas Digital** é uma solução que simula entrevistas reais, gera perguntas específicas para cada cargo e fornece feedback detalhado sobre o desempenho do candidato. 
 A proposta nasceu como um **MVP** simples de perguntas e respostas, que ao final apresenta: - Pontos fortes e pontos fracos - Recomendações práticas de melhoria - Percentual de desempenho em cada questão O foco é evoluir para uma ferramenta completa, com análise de **voz** e **vídeo**, capaz de avaliar clareza, fluidez, confiança, linguagem corporal e coerência das respostas. 
 
-🎯 Objetivos da Solução - Preparar candidatos para entrevistas de forma prática e personalizada. - Desenvolver **soft skills** essenciais, como comunicação, clareza e confiança. - Integrar a preparação para entrevistas ao ambiente de **educação digital**. - Aumentar a **empregabilidade** de estudantes e profissionais. --- ## 
+🎯 Objetivos da Solução - Preparar candidatos para entrevistas de forma prática e personalizada. - Desenvolver **soft skills** essenciais, como comunicação, clareza e confiança. - Integrar a preparação para entrevistas ao ambiente de **educação digital**. - Aumentar a **empregabilidade** de estudantes e profissionais.
 
 ✨ Funcionalidades Planejadas - Geração de perguntas específicas para cada cargo. - Feedback inteligente sobre clareza, objetividade e estrutura das respostas. - Análise de voz: ritmo, pausas, entonação e confiança. - Análise de vídeo: expressões faciais, contato visual e linguagem corporal. - Relatórios de evolução com indicadores de desempenho. - Integração com plataformas de ensino digital. 
 
