@@ -22,6 +22,7 @@
     Análise de vídeo: expressões faciais, contato visual e linguagem corporal. 
     Relatórios de evolução com indicadores de desempenho.
     Integração com plataformas de ensino digital. 
+    Gamificaão.
 
 📊 KPIs e Indicadores: 
     Evolução % do desempenho entre simulações.
